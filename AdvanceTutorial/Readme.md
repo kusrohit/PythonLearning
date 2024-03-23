@@ -442,3 +442,14 @@ m1()
 
 Here the function tells that it won't return anything and it's automatically provides hints to advance code editor like pycharm.
 
+
+Python Virtual Enviroment
+--------------------
+
+- How to create a virtual environment
+`python -m venv envoirement_name`
+
+- How to activate
+Git Bash in Windows `source ./virtualenv/Scripts/activate`
+PowerShell `We can not activate venv without admin permission in powershell but we can in cmd`
+Command Prompt `.\virtualenv\Scripts\activate`

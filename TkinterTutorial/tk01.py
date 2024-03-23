@@ -8,7 +8,6 @@ root = Tk()
 
 # set title
 root.title('Test')
-print('Welcome to tk')
 
 # setting icon
 # root.iconbitmap('/Tutorial/TkinterTutorial/icon.ico') 
@@ -21,7 +20,9 @@ root.iconbitmap('icon.ico')
 
 # 2nd way to set size
 # here we can to full size
-root.geometry('600x300')
+# root.geometry('600x300')
+# geometry('width x height + x-position + y-position') of the screen
+root.geometry('600x400+10+20')
 
 # run continuously
 root.mainloop()

@@ -3,8 +3,8 @@ Some Important Command to Know in Python
 
 | Sr | Command | Description| Link | Note |
 |---|---|---|---|---|
-| 1. |pip show <module_name> |To show module is available or not ? | NA | NA |
-| 2. |pip list|To check all the installed packages and library | NA | NA |
+| 1. |pip show <module_name> | To show module is available or not ? | NA | NA |
+| 2. |pip list| To check all the installed packages and library | NA | NA |
 | 3. | | | | |
 | 4. | | | | |
 | 5. | | | | |
